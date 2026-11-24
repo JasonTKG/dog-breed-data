@@ -2,6 +2,8 @@
 
 **Site: [dog-breed-data.at01.io](https://dog-breed-data.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/dog-breed-data/releases/latest)
 
+Archived on Zenodo: [doi:10.5281/zenodo.24496782](https://doi.org/10.5281/zenodo.24496782) · also on [Kaggle](https://www.kaggle.com/datasets/jasontkg/dog-breed-lifespan-figures-four-studies) and [Hugging Face](https://huggingface.co/datasets/lakerguy16/dog-breed-data)
+
 Lifespan figures by dog breed from four open-access studies, one row per study and breed, with the figures exactly as each paper's table prints them. The breed pages of Dog Breed Data show these rows beside kennel-club figures.
 
 ## Files

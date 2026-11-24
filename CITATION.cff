@@ -9,6 +9,7 @@ authors:
 url: "https://dog-breed-data.at01.io/"
 repository: "https://github.com/JasonTKG/dog-breed-data"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24496782"
 version: "2026.11.24.1"
 date-released: "2026-11-24"
 keywords:
