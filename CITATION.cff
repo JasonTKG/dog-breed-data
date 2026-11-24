@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "Dog breed lifespan figures from four open-access studies"
+abstract: "Lifespan figures by dog breed from four open-access studies, one row per study and breed, with the figures exactly as each paper's table prints them. The breed pages of Dog Breed Data show these rows beside kennel-club figures."
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://dog-breed-data.at01.io/"
+repository: "https://github.com/JasonTKG/dog-breed-data"
+license: CC-BY-4.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "dogs"
+  - "dog-breeds"
+  - "lifespan"
+  - "veterinary-epidemiology"
+  - "csv"

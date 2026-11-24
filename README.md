@@ -1,8 +1,8 @@
 # Dog breed lifespan figures from four open-access studies
 
-Lifespan figures by dog breed from four open-access studies, one row per study and breed, with the figures exactly as each paper's table prints them. The breed pages of Dog Breed Data show these rows beside kennel-club figures.
+**Site: [dog-breed-data.at01.io](https://dog-breed-data.at01.io/)** · Download: [latest release](https://github.com/JasonTKG/dog-breed-data/releases/latest)
 
-Site: https://dog-breed-data.at01.io/
+Lifespan figures by dog breed from four open-access studies, one row per study and breed, with the figures exactly as each paper's table prints them. The breed pages of Dog Breed Data show these rows beside kennel-club figures.
 
 ## Files
 
