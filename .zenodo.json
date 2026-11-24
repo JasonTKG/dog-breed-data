@@ -1,0 +1,33 @@
+{
+ "title": "Dog breed lifespan figures from four open-access studies",
+ "description": "Median lifespan and life expectancy by dog breed, as published in four open-access (CC BY 4.0) studies, one row per study and breed.<br><br>Site built on this data: https://dog-breed-data.at01.io/<br>Source repository, with columns, sources and how it was checked: https://github.com/JasonTKG/dog-breed-data<br>",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "JasonTKG"
+  }
+ ],
+ "license": "cc-by-4.0",
+ "keywords": [
+  "dataset",
+  "open-data",
+  "dogs",
+  "dog-breeds",
+  "lifespan",
+  "veterinary-epidemiology",
+  "csv"
+ ],
+ "access_right": "open",
+ "related_identifiers": [
+  {
+   "identifier": "https://dog-breed-data.at01.io/",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/JasonTKG/dog-breed-data",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
